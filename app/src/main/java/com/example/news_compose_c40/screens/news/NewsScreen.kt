@@ -17,9 +17,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.hilt.navigation.compose.hiltViewModel
-import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.news_compose_c40.R
-import com.example.news_compose_c40.screens.news_details.NewsDetailsViewModel
 import com.example.news_compose_c40.widgets.ErrorDialog
 import com.example.news_compose_c40.widgets.NewsList
 import com.example.news_compose_c40.widgets.NewsTopAppBar

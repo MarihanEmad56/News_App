@@ -6,4 +6,5 @@ data class UIMessage(
     var errorMessage:String?=null,
     var errorMessageId:Int?=null,
     var shouldDisplayNoArticlesFound:Boolean = false
+    
 )
